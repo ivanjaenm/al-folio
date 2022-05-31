@@ -13,12 +13,13 @@ profile:
     <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a computer engineer and scientist who is passionate about the interplay between mathematical theory of intelligent systems, computational algorithms and their applications to real-world problems. I have experience in both academic computer science and practical engineering.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I conducted research in combinatorial optimization working with [Dr. Rafael Rivera](https://scholar.google.com.mx/citations?hl=en&user=UoFV9LAAAAAJ) at TecNM-Veracruz, Mexico, evolutionary computation with [Dr. Arturo Hernandez](https://www.cimat.mx/~artha/) at [CIMAT-Guanajuato](http://pcc.cimat.mx/), Mexico and probabilistic modeling and machine learning with [Dr. John McCall](https://www3.rgu.ac.uk/dmstaff/mccall-john) at [RGU, UK](http://www.comp.rgu.ac.uk/computational-intelligence-research-group/). 
+
+Amazed to explore how basic research is transformed into technology I started my professional career working in the financial industry as a Quant developer. Currently I am a Software Engineer in tech. I am skilled in C++, Python and modern software engineering best practices.

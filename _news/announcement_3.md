@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2021-12-01 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Honored to be awarded a Fulbright-Garcia Robles fellowship for pursuing doctoral studies in the US beginning in Fall 2022. 
