@@ -17,9 +17,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+I am a computer scientist/engineer who is passionate about the interplay between mathematical theory of intelligent systems, computational algorithms and their applications to real-world problems. I have experience in both academic computer science and practical engineering.
 
-I am a computer engineer and scientist who is passionate about the interplay between mathematical theory of intelligent systems, computational algorithms and their applications to real-world problems. I have experience in both academic computer science and practical engineering.
+I completed a MS in Computer Science at the wonderful [CIMAT-Guanajuato](http://pcc.cimat.mx/) (Mexico) where I conducted research in stochastic optimization advised by [Dr. Arturo Hernandez](https://www.cimat.mx/~artha/). I did a research internship working with [Dr. John McCall](https://www3.rgu.ac.uk/dmstaff/mccall-john) in probabilistic modeling for optimization and machine learning. I received my BS degree in Computer Engineering from Instituto Tecnologico de Veracruz (Mexico) advised by [Dr. Rafael Rivera](https://scholar.google.com.mx/citations?hl=en&user=UoFV9LAAAAAJ). I completed my BS thesis in the CIMAT [undergraduate research thesis program](https://www.cimat.mx/es/node/714).
 
-I conducted research in combinatorial optimization working with [Dr. Rafael Rivera](https://scholar.google.com.mx/citations?hl=en&user=UoFV9LAAAAAJ) at TecNM-Veracruz, Mexico, evolutionary computation with [Dr. Arturo Hernandez](https://www.cimat.mx/~artha/) at [CIMAT-Guanajuato](http://pcc.cimat.mx/), Mexico and probabilistic modeling and machine learning with [Dr. John McCall](https://www3.rgu.ac.uk/dmstaff/mccall-john) at [RGU, UK](http://www.comp.rgu.ac.uk/computational-intelligence-research-group/). 
+Amazed to explore how **basic research** is transformed into **technology** I started my professional career working in the financial industry as a Quant developer. Currently I am a Software Engineer in tech, skilled in C++, Python and modern software engineering best practices.
 
-Amazed to explore how basic research is transformed into technology I started my professional career working in the financial industry as a Quant developer. Currently I am a Software Engineer in tech. I am skilled in C++, Python and modern software engineering best practices.
+I'm proudly :mexico: and also interested in contribuiting to diversity and visibility efforts in STEM communities. 
+
+Feel free to reach out!
