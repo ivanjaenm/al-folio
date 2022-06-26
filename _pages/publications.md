@@ -8,6 +8,7 @@ nav: true
 nav_order: 2
 ---
 <!-- _pages/publications.md -->
+<!-- uncomment this section to enable publications
 <div class="publications">
 
 {%- for y in page.years %}
@@ -16,3 +17,4 @@ nav_order: 2
 {% endfor %}
 
 </div>
+-->

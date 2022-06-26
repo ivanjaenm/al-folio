@@ -84,9 +84,9 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: blogia # blog_name will be displayed in your blog page
+blog_name: arg max joy # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: optimum seeking
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -201,32 +201,33 @@ jekyll-archives:
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
-scholar:
+## uncomment this section to enable publication from bib file
+#scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+#  last_name: Einstein
+#  first_name: [Albert, A.]
 
-  style: apa
-  locale: en
+#  style: apa
+#  locale: en
 
-  source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
-  # Note: if you have latex math in your bibtex, the latex filter
-  # preprocessing may conflict with MathJAX if the latter is enabled.
-  # See https://github.com/alshedivat/al-folio/issues/357.
-  bibtex_filters: [latex, smallcaps, superscript]
+#  source: /_bibliography/
+#  bibliography: papers.bib
+#  bibliography_template: bib
+#  # Note: if you have latex math in your bibtex, the latex filter
+#  # preprocessing may conflict with MathJAX if the latter is enabled.
+#  # See https://github.com/alshedivat/al-folio/issues/357.
+#  bibtex_filters: [latex, smallcaps, superscript]
 
-  replace_strings: true
-  join_strings: true
+#  replace_strings: true
+#  join_strings: true
 
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
+#  details_dir: bibliography
+#  details_layout: bibtex.html
+#  details_link: Details
 
-  query: "@*"
+#  query: "@*"
 
-filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website] # Filter out certain bibtex entry keywords used internally from the bib output
+# filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website] # Filter out certain bibtex entry keywords used internally from the bib output
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
@@ -261,7 +262,7 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false  # enables google analytics
+enable_google_analytics:    true  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
 enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
