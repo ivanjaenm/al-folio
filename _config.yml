@@ -16,10 +16,18 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon/  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://ivanjaenm.github.io # the base hostname & protocol for your site
-baseurl: #/al-folio # the subpath of your site, e.g. /blog/
+# **Note:** Make sure to correctly set the `url` and `baseurl` fields in `_config.yml` before building the webpage. 
+  # If you are deploying your webpage to `your-domain.com/your-project/`, you must set `url: your-domain.com` 
+  # and `baseurl: /your-project/`. If you are deploing directly to `your-domain.com`, leave `baseurl` blank.
+# the base hostname & protocol for your site
+#OPTION 1 (github)
+  #url: https://ivanjaenm.github.io
+  #baseurl: #/al-folio # the subpath of your site, e.g. /blog/
+#OPTION 2 (wisc)
+url: https://pages.cs.wisc.edu
+baseurl: /~ivanjaenm/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
