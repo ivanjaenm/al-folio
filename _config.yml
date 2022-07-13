@@ -23,11 +23,12 @@ icon: favicon/  # the emoji used as the favicon (alternatively, provide image na
   # and `baseurl: /your-project/`. If you are deploing directly to `your-domain.com`, leave `baseurl` blank.
 # the base hostname & protocol for your site
 #OPTION 1 (github)
-  #url: https://ivanjaenm.github.io
-  #baseurl: #/al-folio # the subpath of your site, e.g. /blog/
+url: https://ivanjaenm.github.io
+baseurl: #/al-folio # the subpath of your site, e.g. /blog/
+
 #OPTION 2 (wisc)
-url: https://pages.cs.wisc.edu
-baseurl: /~ivanjaenm/
+#url: https://pages.cs.wisc.edu
+#baseurl: /~ivanjaenm/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
