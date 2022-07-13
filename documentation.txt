@@ -1,0 +1,2 @@
+alfolio: 
+	bundle exec jekyll serve
