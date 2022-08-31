@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
+    <p>Office: 3293 CS, Tower 2</p>
     <p>1210 W. Dayton Street</p>
     <p>Madison, WI 53706</p>
 
@@ -21,7 +21,7 @@ I am a computer scientist/engineer who is passionate about the interplay between
 
 I completed a MS in Computer Science at the wonderful [CIMAT-Guanajuato](http://pcc.cimat.mx/) (Mexico) where I conducted research in stochastic optimization advised by [Dr. Arturo Hernandez](https://www.cimat.mx/~artha/). I did an internship working with [Dr. John McCall](https://www3.rgu.ac.uk/dmstaff/mccall-john) in probabilistic modeling for optimization and machine learning. I received my BS degree in Computer Engineering from Instituto Tecnologico de Veracruz (Mexico) advised by [Dr. Rafael Rivera](https://scholar.google.com.mx/citations?hl=en&user=UoFV9LAAAAAJ). I completed my BS thesis in the CIMAT [undergraduate research thesis program](https://www.cimat.mx/oferta-educativa/tesis-de-licenciatura/).
 
-Amazed to explore how **basic research** is transformed into **technology** I started my professional career working in the financial industry as a quant developer, after that I worked in Microsoft as a data science engineer. I'm skilled in C++, Python and modern software engineering best practices.
+Amazed to explore how **basic research** is transformed into **technology** I started my professional career in the financial industry as a quant developer, after that, I worked in Microsoft as a data science engineer. I'm skilled in C++, Python and modern software engineering best practices.
 
 I'm proudly :mexico: and also interested in contribuiting to diversity and visibility efforts in STEM communities. 
 
