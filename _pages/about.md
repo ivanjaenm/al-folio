@@ -8,9 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Office: 3293 CS, Tower 2</p>
-    <p>1210 W. Dayton Street</p>
-    <p>Madison, WI 53706</p>
+    <center><p>ivanjaenm AT cs.wisc.edu</p>
+    <p>Office: 3293 CS</p></center>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

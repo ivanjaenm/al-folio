@@ -4,7 +4,7 @@ title: CV
 nav: true
 nav_order: 3
 dropdown: false
-custom_url: assets/pdf/ivanjaenm_resume.pdf
+custom_url: assets/pdf/ivanjaenm.pdf
 children: 
     - title: publications
       permalink: /publications/

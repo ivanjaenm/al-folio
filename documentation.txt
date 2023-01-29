@@ -1,2 +1,4 @@
 alfolio: 
 	bundle exec jekyll serve
+WSL:
+	sudo apt install imagemagick
