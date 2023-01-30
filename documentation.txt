@@ -1,4 +1,5 @@
 alfolio: 
-	bundle exec jekyll serve
+	DEV: bundle exec jekyll serve
+	PROD: bundle exec jekyll build
 WSL:
 	sudo apt install imagemagick
