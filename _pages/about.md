@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <center><p>ivanjaenm AT cs.wisc.edu</p>
+    <center><p><a href="mailto:ivanjaenm@cs.wisc.edu">ivanjaenm@cs.wisc.edu</a></p>
     <p>Office: 3293 CS</p></center>
 
 news: true  # includes a list of news items
@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hola! :wave: I am a computer scientist who is passionate about the interplay between mathematical theory of intelligent systems, computational algorithms and their applications to real-world problems. I have experience in both academic computer science and practical engineering.
+¡Hola! :wave: I am a computer scientist who is passionate about the interplay between mathematical theory of intelligent systems, computational algorithms and their applications to real-world problems. I have experience in both academic computer science and practical engineering.
 
 I completed a MS in Computer Science at the wonderful [CIMAT](http://pcc.cimat.mx/) (Mexico) where I conducted research in stochastic optimization advised by [Dr. Arturo Hernandez](https://www.cimat.mx/~artha/). I did an internship working with [Dr. John McCall](https://www3.rgu.ac.uk/dmstaff/mccall-john) in probabilistic modeling for optimization and machine learning. I received my BS degree in Computer Engineering from Instituto Tecnologico de Veracruz (Mexico) advised by [Dr. Rafael Rivera](https://scholar.google.com.mx/citations?hl=en&user=UoFV9LAAAAAJ). I completed my BS thesis in the CIMAT [undergraduate research thesis program](https://www.cimat.mx/oferta-educativa/tesis-de-licenciatura/).
 
