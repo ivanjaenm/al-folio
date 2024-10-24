@@ -5,4 +5,4 @@ inline: true
 ---
 
 Awarded [CS Summer Research Assistantship](https://www.cs.wisc.edu/2023-cs-department-awards-and-thank-yous/#DEPT%20AWARDS)!  
-Working under the supervision of Prof. Stephen Wright and Prof. Sushmita Roy.
+I did my first-year research rotation under the supervision of Prof. Stephen Wright, studying Coordinate descent methods for Multi-Task Non-Negative Matrix Factorization.

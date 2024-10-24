@@ -5,4 +5,4 @@ inline: true
 ---
 
 Super excited to join UW-Madison as a CS PhD student this Fall 2022!  
-I'll be working at the intersection of [Optimization](https://optimization.discovery.wisc.edu/) & [Machine Learning](https://machinelearning.wisc.edu/).
+I'll be working at the intersection of [Machine Learning](https://machinelearning.wisc.edu/) & [Optimization](https://optimization.discovery.wisc.edu/)

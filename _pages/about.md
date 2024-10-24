@@ -16,11 +16,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-¡Hola! :wave: I am Ivan (pronounced: ee-vahn), a second-year PhD student focusing on Optimization and Machine Learning. I'm currently supported by a [Fulbright fellowship](https://us.fulbrightonline.org), a [CONACYT scholarship](https://conahcyt.mx/becas_posgrados/becas-al-extranjero/) and a [departamental TAship](https://www.cs.wisc.edu/graduate/funding-and-financial-aid/#teaching-assistantship).
+¡Hola! :wave: I am Ivan (pronounced: 'ee-vahn'), a third-year PhD student specializing in Machine Learning and Artificial Intelligence. I am honored to be supported by a [Fulbright Fellowship](https://us.fulbrightonline.org) and a [departmental TAship](https://www.cs.wisc.edu/graduate/funding-and-financial-aid/#teaching-assistantship).
 
-Prior to Wisconsin, I was solving pressing industrial problems, first in the financial sector as a Quant developer then in tech as a Data Scientist.
+Prior to Wisconsin I worked full-time in industry, first in the financial sector as a Quant developer@[BBVA bank](https://www.bbva.com/en/trading-floor/) then in tech as Data Scientist@[Microsoft](https://azure.microsoft.com/en-us).
 
-Previously, I completed a [MS in Computer Science](https://pcc.cimat.mx/es/maestria-pcc/perfiles) at the wonderful [Center for Research in Mathematics (CIMAT)](https://www.cimat.mx/), advised by [Dr. Arturo Hernandez](https://ieeexplore.ieee.org/author/37276145400).\
-I completed my BS thesis in the CIMAT [undergraduate research thesis program](https://www.cimat.mx/oferta-educativa/tesis-de-licenciatura/) advised by Dr. Arturo Hernandez and [Dr. Rafael Rivera](https://scholar.google.com.mx/citations?hl=en&user=UoFV9LAAAAAJ)
+I hold a [MS in Computer Science](https://pcc.cimat.mx/es/maestria-pcc/perfiles) from the wonderful [CIMAT](https://www.cimat.mx/) (Center for Research in Mathematics) advised by Prof. [Arturo Hernandez](https://ieeexplore.ieee.org/author/37276145400). I received a BS in Computer Engineering, completing my thesis as part of the CIMAT [undergraduate thesis program](https://www.cimat.mx/oferta-educativa/tesis-de-licenciatura/) under Profs. A. Hernandez and [R. Rivera](https://scholar.google.com.mx/citations?hl=en&user=UoFV9LAAAAAJ).
 
-Feel free to reach out! Tambien hablo Español.
+I am also passionate about contributing to efforts aimed at diversifying the CS community and making it more equitable. Throughout this journey, [different experiences](blog/2022/dei/) have shaped my leadership in pursuing this mission.
+
+Feel free to reach out!

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: CS744 - Memory Efficient Low-Rank Systems for training Large Models
+description: Low-Rank Training
+img: assets/img/projects/cs744poster.png
 importance: 1
 category: work
 ---
