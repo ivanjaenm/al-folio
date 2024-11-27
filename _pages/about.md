@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-¡Hola, mundo! :wave: I am Ivan (pronounced: 'ee-vahn'), a third-year PhD student specializing in Machine Learning and Artificial Intelligence. I am honored to be supported by a [Fulbright Fellowship](https://us.fulbrightonline.org) and a [departmental TAship](https://www.cs.wisc.edu/graduate/funding-and-financial-aid/#teaching-assistantship).
+¡Hola, mundo! :wave: I am Ivan (pronounced: '*ee-vahn*'), a third-year PhD student specializing in Machine Learning and Artificial Intelligence. I am honored to be supported by a [Fulbright Fellowship](https://us.fulbrightonline.org) and a [departmental TAship](https://www.cs.wisc.edu/graduate/funding-and-financial-aid/#teaching-assistantship).
 
 Prior to Wisconsin I worked full-time in industry, first in the financial sector as a Quant developer@[BBVA bank](https://www.bbva.com/en/trading-floor/) then in tech as Data Scientist@[Microsoft](https://azure.microsoft.com/en-us).
 
