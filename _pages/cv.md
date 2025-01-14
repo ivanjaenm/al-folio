@@ -2,7 +2,7 @@
 layout: page
 title: CV
 nav: true
-nav_order: 3
+nav_order: 5
 dropdown: false
 custom_url: assets/pdf/jaenmarquezivan.pdf
 children: 

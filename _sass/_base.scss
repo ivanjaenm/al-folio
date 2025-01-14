@@ -128,6 +128,19 @@ blockquote {
   }
 }
 
+.post-description-project {
+  margin-bottom: 2rem;
+  font-size: 1.875rem;
+  color: #A03232;
+  a {
+    color: #A03232;
+    &:hover {
+      color: var(--global-theme-color);
+      text-decoration: none;
+    }
+  }
+}
+
 
 // Navbar customization
 

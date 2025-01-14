@@ -1,12 +1,14 @@
 ---
-layout: page
-title: projects
+layout: page_dual_projects
 permalink: /projects/
+title1: coursework
+
+title: projects
 description: A collection of relevant coursework projects.
 nav: true
-nav_order: 1
 display_categories: [work, fun]
 horizontal: false
+nav_order: 3
 ---
 
 <!-- pages/projects.md -->
