@@ -3,6 +3,7 @@ release alfolio:
 		bundle exec jekyll serve
 	PROD: 
 		bundle exec jekyll build
-
+copy:
+	scp -r _site/. ivanjaenm@best-linux.cs.wisc.edu:/home/ivanjaenm/public/html
 WSL dependencies:
 	sudo apt install imagemagick
