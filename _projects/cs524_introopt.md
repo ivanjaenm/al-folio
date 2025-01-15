@@ -25,7 +25,7 @@ The ultimate goal of employing NMF in this task is to identify cluster across ce
     </div>
 </div>
 <div class="caption">
-    Cell and Gene factors. Image from Dr. Sushmita Roy's Research Project Proposal
+    Cell and Gene factors. Image from Professor Sushmita Roy's Research Project Proposal
 </div>
 
 ## Mathematical model
