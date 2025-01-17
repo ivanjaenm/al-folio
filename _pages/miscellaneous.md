@@ -13,7 +13,13 @@ Research seminars I regularly participate in:
 - [Machine Learning Lunch Meetings - MLLM](https://sites.google.com/view/wiscmllm/home), Fridays at UW-Madison CS Dept.
 - [Deep Learning: Classics and Trends - DLCT](https://mlcollective.org/dlct/), Fridays at noon over zoom
 
-Collection of excellent materials from Professors:
+Collection of excellent materials from ML Professors:
 - Prof. Robert Nowak lecture notes on [Mathematical foundations of Machine Learning](https://nowak.ece.wisc.edu/MFML.pdf)
 - Profs Philipp Petersen and Jakob Zech book on [Mathematical Theory of Deep Learning](https://arxiv.org/pdf/2407.18384)
 - Prof. Simone Scardapane book [Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/assets/alice/Alice_book_volume_1.pdf)
+
+About the Fulbright program:
+
+The <a href="https://www.comexus.org.mx/">Fullbright-Garcia Robles</a> program has enabled me to promote mutual understanding between people in the U.S. and Mexico through educational and cultural exchange. This experience has helped me build meaningful connections across borders, fostering collaboration and community in STEM.
+
+{% twitter https://twitter.com/rubygems/status/1560384847859834886 %}

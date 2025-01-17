@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <center><p><a href="mailto:ivanjaenm@cs.wisc.edu">ivanjaenm@cs.wisc.edu</a></p>
-    <p>Office: 3293 CS</p></center>
+    <p>Office: 3293 CS bldg.</p></center>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
