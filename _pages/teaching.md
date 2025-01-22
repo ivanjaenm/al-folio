@@ -9,7 +9,7 @@ nav_order: 4
 
 ### Teaching Assistant:
 - #### at UW-Madison
-    - [CS544 Intro to Big Data Systems](https://tyler.caraza-harter.com/cs544/s23/syllabus.html)
+    - [CS544 Intro to Big Data Systems](https://tyler.caraza-harter.com/cs544/s25/schedule.html)
     - [CS400 Programming III](https://pages.cs.wisc.edu/~deppeler/cs400/weekly_schedule.html) (Java)
     - [CS320 Data Science Programming II](https://tyler.caraza-harter.com/cs320/f22/schedule.html) (Python)
 
